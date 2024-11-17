@@ -72,4 +72,9 @@ npm start
 | `email`         | `string`     | Email address of the contact (unique).                        |
 | `phone`         | `string`     | Phone number of the contact (unique, must start with 6-9).    |
 | `company`       | `string`     | Name of the company the contact works for.                    |
-| `jobTitle`      | `string`     | Job title of the contact. 
+| `jobTitle`      | `string`     | Job title of the contact.                                     |
+
+## Challenges and Solutions
+- Inorder to do Search operation for searching contacts, I've faced the challenge in querying in database.
+
+- With the help of youtube tutorials, I've done the searching operation.
